@@ -1,4 +1,4 @@
-# Gerenciamento de estoque de produtos
+# Gerenciamento de Inventário de Produtos
 
 ## Descrição
 - O projeto “Gerenciamento de Inventário de Produtos” é uma aplicação Java desenvolvida para facilitar o gerenciamento de informações de produtos, incluindo nome, preço e quantidade. Este programa baseado em console permite aos usuários inserir detalhes do produto, armazenar os dados em um arquivo CSV e gerar um resumo dos produtos e seus preços totais.
